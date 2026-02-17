@@ -1,0 +1,5474 @@
+{
+  "page_01": {
+    "source": "page_01.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          833,
+          274,
+          2997,
+          517
+        ],
+        "width": 2164,
+        "height": 243,
+        "center": [
+          1915,
+          395
+        ],
+        "text": "Glassmorphism Lab V2.0",
+        "confidence": 0.8104845675439768,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1356,
+          548,
+          2460,
+          689
+        ],
+        "width": 1104,
+        "height": 141,
+        "center": [
+          1908,
+          618
+        ],
+        "text": "视觉设计规范与构建指南",
+        "confidence": 0.975520872096462,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "NoteboohLhl",
+        "confidence": 0.048342115755816525,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2171,
+          1559,
+          2560,
+          1768
+        ],
+        "width": 389,
+        "height": 209,
+        "center": [
+          2365,
+          1663
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1257,
+          1556,
+          1640,
+          1762
+        ],
+        "width": 383,
+        "height": 206,
+        "center": [
+          1448,
+          1659
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1217,
+          1368,
+          1606,
+          1576
+        ],
+        "width": 389,
+        "height": 208,
+        "center": [
+          1411,
+          1472
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1206,
+          1345,
+          1907,
+          1706
+        ],
+        "width": 701,
+        "height": 361,
+        "center": [
+          1556,
+          1525
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2153,
+          1259,
+          2776,
+          1589
+        ],
+        "width": 623,
+        "height": 330,
+        "center": [
+          2464,
+          1424
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1297,
+          1234,
+          1653,
+          1426
+        ],
+        "width": 356,
+        "height": 192,
+        "center": [
+          1475,
+          1330
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2159,
+          1232,
+          2526,
+          1426
+        ],
+        "width": 367,
+        "height": 194,
+        "center": [
+          2342,
+          1329
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2140,
+          1206,
+          2531,
+          1414
+        ],
+        "width": 391,
+        "height": 208,
+        "center": [
+          2335,
+          1310
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1042,
+          1075,
+          1845,
+          1501
+        ],
+        "width": 803,
+        "height": 426,
+        "center": [
+          1443,
+          1288
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_02": {
+    "source": "page_02.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          196,
+          186,
+          1650,
+          380
+        ],
+        "width": 1454,
+        "height": 194,
+        "center": [
+          923,
+          283
+        ],
+        "text": "核心理念:  透亮的白盒",
+        "confidence": 0.40977835254751815,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          198,
+          401,
+          423,
+          497
+        ],
+        "width": 225,
+        "height": 96,
+        "center": [
+          310,
+          449
+        ],
+        "text": "新拟物",
+        "confidence": 0.9715289883087616,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          451,
+          407,
+          978,
+          506
+        ],
+        "width": 527,
+        "height": 99,
+        "center": [
+          714,
+          456
+        ],
+        "text": "(Neomorphism)",
+        "confidence": 0.7614512164260985,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1008,
+          423,
+          1058,
+          478
+        ],
+        "width": 50,
+        "height": 55,
+        "center": [
+          1033,
+          450
+        ],
+        "text": "十",
+        "confidence": 0.9871436211042806,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1058,
+          403,
+          1883,
+          508
+        ],
+        "width": 825,
+        "height": 105,
+        "center": [
+          1470,
+          455
+        ],
+        "text": "玻璃态 (Glassmorphism)",
+        "confidence": 0.8598835379579417,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          495,
+          770,
+          994,
+          845
+        ],
+        "width": 499,
+        "height": 75,
+        "center": [
+          744,
+          807
+        ],
+        "text": "Flat Design (Before)",
+        "confidence": 0.6683078541412686,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1839,
+          769,
+          2422,
+          847
+        ],
+        "width": 583,
+        "height": 78,
+        "center": [
+          2130,
+          808
+        ],
+        "text": "Glassmorphism (After)",
+        "confidence": 0.8344010221613121,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2859,
+          771,
+          3409,
+          871
+        ],
+        "width": 550,
+        "height": 100,
+        "center": [
+          3134,
+          821
+        ],
+        "text": "隐喻 (Metaphor)",
+        "confidence": 0.9023113259809514,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2855,
+          893,
+          3575,
+          973
+        ],
+        "width": 720,
+        "height": 80,
+        "center": [
+          3215,
+          933
+        ],
+        "text": "将复杂的A1算法置于-个通透",
+        "confidence": 0.35641173489702827,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2858,
+          973,
+          3554,
+          1054
+        ],
+        "width": 696,
+        "height": 81,
+        "center": [
+          3206,
+          1013
+        ],
+        "text": "纯争的实验空中。建立用户对",
+        "confidence": 0.05741581233935905,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2855,
+          1057,
+          3357,
+          1131
+        ],
+        "width": 502,
+        "height": 74,
+        "center": [
+          3106,
+          1094
+        ],
+        "text": "\"黑盒\"技术的信任阊。",
+        "confidence": 0.030375509434113324,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2859,
+          1267,
+          3478,
+          1366
+        ],
+        "width": 619,
+        "height": 99,
+        "center": [
+          3168,
+          1316
+        ],
+        "text": "关键词 (Keywords)",
+        "confidence": 0.7710144156754674,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2858,
+          1391,
+          3186,
+          1472
+        ],
+        "width": 328,
+        "height": 81,
+        "center": [
+          3022,
+          1431
+        ],
+        "text": "纯净 (Purity)",
+        "confidence": 0.8666395923731407,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3221,
+          1389,
+          3611,
+          1474
+        ],
+        "width": 390,
+        "height": 85,
+        "center": [
+          3416,
+          1431
+        ],
+        "text": "通适 (Clarity) /",
+        "confidence": 0.4620537161251349,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2857,
+          1471,
+          3233,
+          1556
+        ],
+        "width": 376,
+        "height": 85,
+        "center": [
+          3045,
+          1513
+        ],
+        "text": "律动 (Rhythm)",
+        "confidence": 0.9841927312830531,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3273,
+          1472,
+          3395,
+          1550
+        ],
+        "width": 122,
+        "height": 78,
+        "center": [
+          3334,
+          1511
+        ],
+        "text": "智能",
+        "confidence": 0.13243117470329227,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2887,
+          1552,
+          3229,
+          1632
+        ],
+        "width": 342,
+        "height": 80,
+        "center": [
+          3058,
+          1592
+        ],
+        "text": "(Intelligence)",
+        "confidence": 0.7070798781935882,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "NotebohLhl",
+        "confidence": 0.03615561268513087,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1645,
+          1124,
+          2620,
+          1534
+        ],
+        "width": 975,
+        "height": 410,
+        "center": [
+          2132,
+          1329
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          212,
+          939,
+          1189,
+          1534
+        ],
+        "width": 977,
+        "height": 595,
+        "center": [
+          700,
+          1236
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_03": {
+    "source": "page_03.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          134,
+          107,
+          651,
+          179
+        ],
+        "width": 517,
+        "height": 72,
+        "center": [
+          392,
+          143
+        ],
+        "text": "Glassmorphism Lah",
+        "confidence": 0.7820921474369473,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          133,
+          175,
+          1873,
+          338
+        ],
+        "width": 1740,
+        "height": 163,
+        "center": [
+          1003,
+          256
+        ],
+        "text": "色彩系统:  纯净背景与智能高光",
+        "confidence": 0.42300434293783823,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          131,
+          334,
+          1143,
+          435
+        ],
+        "width": 1012,
+        "height": 101,
+        "center": [
+          637,
+          384
+        ],
+        "text": "Inter/Noto Sans SC (Bold)",
+        "confidence": 0.626005610911537,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2895,
+          598,
+          3141,
+          697
+        ],
+        "width": 246,
+        "height": 99,
+        "center": [
+          3018,
+          647
+        ],
+        "text": "极光绿",
+        "confidence": 0.9837890691096494,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2903,
+          689,
+          3309,
+          764
+        ],
+        "width": 406,
+        "height": 75,
+        "center": [
+          3106,
+          726
+        ],
+        "text": "Aurora Mint",
+        "confidence": 0.6638742191303698,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          777,
+          741,
+          1017,
+          841
+        ],
+        "width": 240,
+        "height": 100,
+        "center": [
+          897,
+          791
+        ],
+        "text": "量子紫",
+        "confidence": 0.9671948449792144,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2895,
+          774,
+          3158,
+          835
+        ],
+        "width": 263,
+        "height": 61,
+        "center": [
+          3026,
+          804
+        ],
+        "text": "#2DD4BF",
+        "confidence": 0.9887926796330841,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          461,
+          834,
+          1020,
+          925
+        ],
+        "width": 559,
+        "height": 91,
+        "center": [
+          740,
+          879
+        ],
+        "text": "Quantum Purple",
+        "confidence": 0.9763077060187864,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          759,
+          914,
+          1014,
+          978
+        ],
+        "width": 255,
+        "height": 64,
+        "center": [
+          886,
+          946
+        ],
+        "text": "#GCG3FF",
+        "confidence": 0.8036483306642677,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2903,
+          890,
+          3345,
+          967
+        ],
+        "width": 442,
+        "height": 77,
+        "center": [
+          3124,
+          928
+        ],
+        "text": "正向反馈。创造力",
+        "confidence": 0.700464568692799,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          570,
+          1030,
+          821,
+          1105
+        ],
+        "width": 251,
+        "height": 75,
+        "center": [
+          695,
+          1067
+        ],
+        "text": "核心逻辑",
+        "confidence": 0.42554280161857605,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          842,
+          1033,
+          1012,
+          1105
+        ],
+        "width": 170,
+        "height": 72,
+        "center": [
+          927,
+          1069
+        ],
+        "text": "Al算力",
+        "confidence": 0.4886137545108795,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2828,
+          1218,
+          3422,
+          1290
+        ],
+        "width": 594,
+        "height": 72,
+        "center": [
+          3125,
+          1254
+        ],
+        "text": "设计注:  暖金固打硬冷调,",
+        "confidence": 0.0201785911127179,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2826,
+          1285,
+          3218,
+          1354
+        ],
+        "width": 392,
+        "height": 69,
+        "center": [
+          3022,
+          1319
+        ],
+        "text": "注入温度与价值。",
+        "confidence": 0.6418342152200519,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2823,
+          1425,
+          3066,
+          1525
+        ],
+        "width": 243,
+        "height": 100,
+        "center": [
+          2944,
+          1475
+        ],
+        "text": "数据金",
+        "confidence": 0.8735682226488297,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2829,
+          1521,
+          3233,
+          1590
+        ],
+        "width": 404,
+        "height": 69,
+        "center": [
+          3031,
+          1555
+        ],
+        "text": "Data Amber",
+        "confidence": 0.7487125395594038,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2826,
+          1598,
+          3075,
+          1662
+        ],
+        "width": 249,
+        "height": 64,
+        "center": [
+          2950,
+          1630
+        ],
+        "text": "#FSgEOB",
+        "confidence": 0.5449123960450003,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2828,
+          1714,
+          3273,
+          1792
+        ],
+        "width": 445,
+        "height": 78,
+        "center": [
+          3050,
+          1753
+        ],
+        "text": "价值感。智能高光",
+        "confidence": 0.37903169265658504,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          179,
+          1839,
+          588,
+          1911
+        ],
+        "width": 409,
+        "height": 72,
+        "center": [
+          383,
+          1875
+        ],
+        "text": "纯白 Pure White",
+        "confidence": 0.2987468097687349,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          922,
+          1839,
+          1278,
+          1911
+        ],
+        "width": 356,
+        "height": 72,
+        "center": [
+          1100,
+          1875
+        ],
+        "text": "淠灰 Charcoal",
+        "confidence": 0.3311650219761012,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          184,
+          1916,
+          392,
+          1969
+        ],
+        "width": 208,
+        "height": 53,
+        "center": [
+          288,
+          1942
+        ],
+        "text": "#FFFFFF",
+        "confidence": 0.9944468468276582,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          920,
+          1910,
+          1137,
+          1975
+        ],
+        "width": 217,
+        "height": 65,
+        "center": [
+          1028,
+          1942
+        ],
+        "text": "#1E2938",
+        "confidence": 0.4037151218627924,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "MoteboohLhl",
+        "confidence": 0.047190699857871415,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          932,
+          1487,
+          1567,
+          1811
+        ],
+        "width": 635,
+        "height": 324,
+        "center": [
+          1249,
+          1649
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2120,
+          1211,
+          2340,
+          1612
+        ],
+        "width": 220,
+        "height": 401,
+        "center": [
+          2230,
+          1411
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2341,
+          1206,
+          2594,
+          1492
+        ],
+        "width": 253,
+        "height": 286,
+        "center": [
+          2467,
+          1349
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2224,
+          900,
+          2467,
+          1031
+        ],
+        "width": 243,
+        "height": 131,
+        "center": [
+          2345,
+          965
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1173,
+          797,
+          1382,
+          1166
+        ],
+        "width": 209,
+        "height": 369,
+        "center": [
+          1277,
+          981
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1114,
+          568,
+          1794,
+          1240
+        ],
+        "width": 680,
+        "height": 672,
+        "center": [
+          1454,
+          904
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2437,
+          386,
+          2754,
+          729
+        ],
+        "width": 317,
+        "height": 343,
+        "center": [
+          2595,
+          557
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_04": {
+    "source": "page_04.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          3229,
+          108,
+          3693,
+          169
+        ],
+        "width": 464,
+        "height": 61,
+        "center": [
+          3461,
+          138
+        ],
+        "text": "Glassmorphism Lab",
+        "confidence": 0.8718346572801823,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          224,
+          227,
+          823,
+          396
+        ],
+        "width": 599,
+        "height": 169,
+        "center": [
+          523,
+          311
+        ],
+        "text": "林质工艺:",
+        "confidence": 0.21170562165524917,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          877,
+          228,
+          1787,
+          392
+        ],
+        "width": 910,
+        "height": 164,
+        "center": [
+          1332,
+          310
+        ],
+        "text": "毛玻璃卡片解构",
+        "confidence": 0.8776455242513578,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          228,
+          400,
+          1261,
+          493
+        ],
+        "width": 1033,
+        "height": 93,
+        "center": [
+          744,
+          446
+        ],
+        "text": "Interand Noto Sans SC Bold",
+        "confidence": 0.6460168729603712,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          230,
+          763,
+          436,
+          837
+        ],
+        "width": 206,
+        "height": 74,
+        "center": [
+          333,
+          800
+        ],
+        "text": "Layer 5:",
+        "confidence": 0.6307652593499504,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1667,
+          741,
+          2009,
+          808
+        ],
+        "width": 342,
+        "height": 67,
+        "center": [
+          1838,
+          774
+        ],
+        "text": "高光 (Specularl:",
+        "confidence": 0.6453196898891751,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1669,
+          806,
+          2125,
+          867
+        ],
+        "width": 456,
+        "height": 61,
+        "center": [
+          1897,
+          836
+        ],
+        "text": "Top-left IpK pure White",
+        "confidence": 0.6102848277028667,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          231,
+          970,
+          435,
+          1039
+        ],
+        "width": 204,
+        "height": 69,
+        "center": [
+          333,
+          1004
+        ],
+        "text": "Layer 4:",
+        "confidence": 0.6114661214815434,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1667,
+          950,
+          1961,
+          1011
+        ],
+        "width": 294,
+        "height": 61,
+        "center": [
+          1814,
+          980
+        ],
+        "text": "描边 (Stroke):",
+        "confidence": 0.6369470935185585,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1670,
+          1016,
+          2364,
+          1076
+        ],
+        "width": 694,
+        "height": 60,
+        "center": [
+          2017,
+          1046
+        ],
+        "text": "Ipx Gradient (Ihite to Transparent]",
+        "confidence": 0.4110957395841686,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          231,
+          1176,
+          435,
+          1245
+        ],
+        "width": 204,
+        "height": 69,
+        "center": [
+          333,
+          1210
+        ],
+        "text": "Layer 3:",
+        "confidence": 0.8634647078774748,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1664,
+          1159,
+          1886,
+          1220
+        ],
+        "width": 222,
+        "height": 61,
+        "center": [
+          1775,
+          1189
+        ],
+        "text": "'充 (FiIJ:",
+        "confidence": 0.024233470533523163,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1674,
+          1226,
+          2124,
+          1282
+        ],
+        "width": 450,
+        "height": 56,
+        "center": [
+          1899,
+          1254
+        ],
+        "text": "White, Opacity 60-80%",
+        "confidence": 0.2711542999977617,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          230,
+          1381,
+          433,
+          1455
+        ],
+        "width": 203,
+        "height": 74,
+        "center": [
+          331,
+          1418
+        ],
+        "text": "Layer 2:",
+        "confidence": 0.7933355808221381,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1667,
+          1365,
+          2201,
+          1433
+        ],
+        "width": 534,
+        "height": 68,
+        "center": [
+          1934,
+          1399
+        ],
+        "text": "背景O鞠 (Backdrop Blur:",
+        "confidence": 0.016618215072675732,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1671,
+          1438,
+          1775,
+          1494
+        ],
+        "width": 104,
+        "height": 56,
+        "center": [
+          1723,
+          1466
+        ],
+        "text": "1Sp",
+        "confidence": 0.34596294647926196,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1802,
+          1438,
+          1909,
+          1491
+        ],
+        "width": 107,
+        "height": 53,
+        "center": [
+          1855,
+          1464
+        ],
+        "text": "25pK",
+        "confidence": 0.32369542121887207,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          230,
+          1587,
+          427,
+          1661
+        ],
+        "width": 197,
+        "height": 74,
+        "center": [
+          328,
+          1624
+        ],
+        "text": "Layer 1:",
+        "confidence": 0.6213147465631709,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1667,
+          1577,
+          1994,
+          1641
+        ],
+        "width": 327,
+        "height": 64,
+        "center": [
+          1830,
+          1609
+        ],
+        "text": "投f (Shadowl:",
+        "confidence": 0.19616605136898504,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1671,
+          1644,
+          2267,
+          1700
+        ],
+        "width": 596,
+        "height": 56,
+        "center": [
+          1969,
+          1672
+        ],
+        "text": "Purple Tone; Alpha 8% Blur 20",
+        "confidence": 0.4039604005288202,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1670,
+          1705,
+          2207,
+          1766
+        ],
+        "width": 537,
+        "height": 61,
+        "center": [
+          1938,
+          1735
+        ],
+        "text": "InterlNoto Sans SC Regular",
+        "confidence": 0.8548948084102259,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          759,
+          1921,
+          1071,
+          1982
+        ],
+        "width": 312,
+        "height": 61,
+        "center": [
+          915,
+          1951
+        ],
+        "text": "Eyploded View",
+        "confidence": 0.6911801395703966,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "MoteboohLhl",
+        "confidence": 0.06374137394123194,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          678,
+          1510,
+          1162,
+          1629
+        ],
+        "width": 484,
+        "height": 119,
+        "center": [
+          920,
+          1569
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2550,
+          868,
+          3404,
+          1452
+        ],
+        "width": 854,
+        "height": 584,
+        "center": [
+          2977,
+          1160
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_05": {
+    "source": "page_05.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          3235,
+          132,
+          3669,
+          196
+        ],
+        "width": 434,
+        "height": 64,
+        "center": [
+          3452,
+          164
+        ],
+        "text": "Glassmorphism Lab",
+        "confidence": 0.9521654057622847,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          153,
+          123,
+          1647,
+          297
+        ],
+        "width": 1494,
+        "height": 174,
+        "center": [
+          900,
+          210
+        ],
+        "text": "空间构造:  流动弥散背景",
+        "confidence": 0.7729167533799061,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          143,
+          308,
+          1099,
+          423
+        ],
+        "width": 956,
+        "height": 115,
+        "center": [
+          621,
+          365
+        ],
+        "text": "增加 \"空气感\"  与折射介质",
+        "confidence": 0.5475462402472959,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1127,
+          333,
+          1960,
+          422
+        ],
+        "width": 833,
+        "height": 89,
+        "center": [
+          1543,
+          377
+        ],
+        "text": "Inter/Noto Sans SC Regular",
+        "confidence": 0.481518990367438,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          596,
+          682,
+          941,
+          768
+        ],
+        "width": 345,
+        "height": 86,
+        "center": [
+          768,
+          725
+        ],
+        "text": "Opacity 59",
+        "confidence": 0.6096853239270199,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2842,
+          844,
+          3420,
+          935
+        ],
+        "width": 578,
+        "height": 91,
+        "center": [
+          3131,
+          889
+        ],
+        "text": "混合模式 (Blend)",
+        "confidence": 0.6904274825993262,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2838,
+          930,
+          3399,
+          1041
+        ],
+        "width": 561,
+        "height": 111,
+        "center": [
+          3118,
+          985
+        ],
+        "text": "Screen / Overlay",
+        "confidence": 0.968479461316122,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2842,
+          1202,
+          3405,
+          1288
+        ],
+        "width": 563,
+        "height": 86,
+        "center": [
+          3123,
+          1245
+        ],
+        "text": "光斑1: #GCG3FF",
+        "confidence": 0.8240282002305465,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2841,
+          1296,
+          3449,
+          1399
+        ],
+        "width": 608,
+        "height": 103,
+        "center": [
+          3145,
+          1347
+        ],
+        "text": "(Quantum Purple)",
+        "confidence": 0.6466124169033467,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2842,
+          1489,
+          3408,
+          1578
+        ],
+        "width": 566,
+        "height": 89,
+        "center": [
+          3125,
+          1533
+        ],
+        "text": "光斑2: #3882F6",
+        "confidence": 0.8113754633324922,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2842,
+          1584,
+          3227,
+          1677
+        ],
+        "width": 385,
+        "height": 93,
+        "center": [
+          3034,
+          1630
+        ],
+        "text": "(Tech Blue)",
+        "confidence": 0.8289365102298852,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2224,
+          1808,
+          2569,
+          1894
+        ],
+        "width": 345,
+        "height": 86,
+        "center": [
+          2396,
+          1851
+        ],
+        "text": "Opacity 5%",
+        "confidence": 0.7192766115920005,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "MoteboohLhl",
+        "confidence": 0.057606303661541625,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1792,
+          1373,
+          2676,
+          1992
+        ],
+        "width": 884,
+        "height": 619,
+        "center": [
+          2234,
+          1682
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1164,
+          817,
+          2202,
+          1725
+        ],
+        "width": 1038,
+        "height": 908,
+        "center": [
+          1683,
+          1271
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          789,
+          815,
+          1389,
+          1693
+        ],
+        "width": 600,
+        "height": 878,
+        "center": [
+          1089,
+          1254
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_06": {
+    "source": "page_06.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          226,
+          167,
+          1645,
+          316
+        ],
+        "width": 1419,
+        "height": 149,
+        "center": [
+          935,
+          241
+        ],
+        "text": "组件规范 A: 悬浮代码编辑器",
+        "confidence": 0.8361730827771021,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          239,
+          344,
+          270,
+          387
+        ],
+        "width": 31,
+        "height": 43,
+        "center": [
+          254,
+          365
+        ],
+        "text": "夏",
+        "confidence": 0.00019807122561278645,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          277,
+          330,
+          1606,
+          410
+        ],
+        "width": 1329,
+        "height": 80,
+        "center": [
+          941,
+          370
+        ],
+        "text": "high-fidelity code editor mockup with Al integration。",
+        "confidence": 0.6534837486111712,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2519,
+          697,
+          2689,
+          750
+        ],
+        "width": 170,
+        "height": 53,
+        "center": [
+          2604,
+          723
+        ],
+        "text": "削 Agent",
+        "confidence": 0.17890118400571803,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1166,
+          748,
+          1351,
+          798
+        ],
+        "width": 185,
+        "height": 50,
+        "center": [
+          1258,
+          773
+        ],
+        "text": "110a55",
+        "confidence": 0.11919308145299809,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1361,
+          752,
+          1454,
+          791
+        ],
+        "width": 93,
+        "height": 39,
+        "center": [
+          1407,
+          771
+        ],
+        "text": "C0d",
+        "confidence": 0.16113605434802503,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1162,
+          797,
+          1870,
+          854
+        ],
+        "width": 708,
+        "height": 57,
+        "center": [
+          1516,
+          825
+        ],
+        "text": "Baport function positonaoLeoer()",
+        "confidence": 0.12978347098573134,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1885,
+          804,
+          1910,
+          841
+        ],
+        "width": 25,
+        "height": 37,
+        "center": [
+          1897,
+          822
+        ],
+        "text": "[",
+        "confidence": 0.98761803233538,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1208,
+          848,
+          1528,
+          905
+        ],
+        "width": 320,
+        "height": 57,
+        "center": [
+          1368,
+          876
+        ],
+        "text": "Const applocId",
+        "confidence": 0.7380196244026428,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1539,
+          861,
+          1564,
+          886
+        ],
+        "width": 25,
+        "height": 25,
+        "center": [
+          1551,
+          873
+        ],
+        "text": "=",
+        "confidence": 0.1625066083450486,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1579,
+          851,
+          1738,
+          893
+        ],
+        "width": 159,
+        "height": 42,
+        "center": [
+          1658,
+          872
+        ],
+        "text": "Itrkos  ",
+        "confidence": 0.1074827901764093,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1209,
+          901,
+          1350,
+          943
+        ],
+        "width": 141,
+        "height": 42,
+        "center": [
+          1279,
+          922
+        ],
+        "text": "Petupn",
+        "confidence": 0.467940549934123,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1358,
+          894,
+          2062,
+          958
+        ],
+        "width": 704,
+        "height": 64,
+        "center": [
+          1710,
+          926
+        ],
+        "text": "appiocId.totlist (\"\"#.sslected\" ) ;",
+        "confidence": 0.5360026280710044,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          230,
+          965,
+          808,
+          1032
+        ],
+        "width": 578,
+        "height": 67,
+        "center": [
+          519,
+          998
+        ],
+        "text": "内穿区:  注办庇 #FBFAFC",
+        "confidence": 0.07852845564377794,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1102,
+          976,
+          1149,
+          1021
+        ],
+        "width": 47,
+        "height": 45,
+        "center": [
+          1125,
+          998
+        ],
+        "text": "0",
+        "confidence": 0.6122150690886343,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1168,
+          956,
+          1193,
+          993
+        ],
+        "width": 25,
+        "height": 37,
+        "center": [
+          1180,
+          974
+        ],
+        "text": "]",
+        "confidence": 0.6317401758485666,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2968,
+          946,
+          3590,
+          1018
+        ],
+        "width": 622,
+        "height": 72,
+        "center": [
+          3279,
+          982
+        ],
+        "text": "边揠: #E2EBFO + 紫色鬲亮",
+        "confidence": 0.08888264331595228,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          224,
+          1028,
+          577,
+          1114
+        ],
+        "width": 353,
+        "height": 86,
+        "center": [
+          400,
+          1071
+        ],
+        "text": "(Opacity 95%1",
+        "confidence": 0.6778654859295311,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          604,
+          1031,
+          865,
+          1098
+        ],
+        "width": 261,
+        "height": 67,
+        "center": [
+          734,
+          1064
+        ],
+        "text": "确保可读性",
+        "confidence": 0.08911734101000057,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1167,
+          1054,
+          1218,
+          1099
+        ],
+        "width": 51,
+        "height": 45,
+        "center": [
+          1192,
+          1076
+        ],
+        "text": "1",
+        "confidence": 0.8003392944729626,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1230,
+          1057,
+          1367,
+          1096
+        ],
+        "width": 137,
+        "height": 39,
+        "center": [
+          1298,
+          1076
+        ],
+        "text": "hooent",
+        "confidence": 0.8146654344557329,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1380,
+          1053,
+          1631,
+          1101
+        ],
+        "width": 251,
+        "height": 48,
+        "center": [
+          1505,
+          1077
+        ],
+        "text": "IOUr editor",
+        "confidence": 0.32073358160536203,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1162,
+          1103,
+          1304,
+          1153
+        ],
+        "width": 142,
+        "height": 50,
+        "center": [
+          1233,
+          1128
+        ],
+        "text": "export",
+        "confidence": 0.21377945764288472,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1316,
+          1099,
+          1799,
+          1151
+        ],
+        "width": 483,
+        "height": 52,
+        "center": [
+          1557,
+          1125
+        ],
+        "text": "functlon Tunctioneath;",
+        "confidence": 0.6799425697617764,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1951,
+          1109,
+          1976,
+          1145
+        ],
+        "width": 25,
+        "height": 36,
+        "center": [
+          1963,
+          1127
+        ],
+        "text": "[",
+        "confidence": 0.9964652358769541,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          229,
+          1119,
+          872,
+          1191
+        ],
+        "width": 643,
+        "height": 72,
+        "center": [
+          550,
+          1155
+        ],
+        "text": "InterlNoto Sans SC Regular",
+        "confidence": 0.653564636100687,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1208,
+          1151,
+          1631,
+          1201
+        ],
+        "width": 423,
+        "height": 50,
+        "center": [
+          1419,
+          1176
+        ],
+        "text": "notific mokodvnamzn",
+        "confidence": 0.496905755250976,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1650,
+          1169,
+          1673,
+          1189
+        ],
+        "width": 23,
+        "height": 20,
+        "center": [
+          1661,
+          1179
+        ],
+        "text": "二",
+        "confidence": 0.11211511110866823,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1687,
+          1155,
+          1869,
+          1197
+        ],
+        "width": 182,
+        "height": 42,
+        "center": [
+          1778,
+          1176
+        ],
+        "text": "\"aofsts \"",
+        "confidence": 0.11678996230557703,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1213,
+          1258,
+          1238,
+          1295
+        ],
+        "width": 25,
+        "height": 37,
+        "center": [
+          1225,
+          1276
+        ],
+        "text": "{",
+        "confidence": 0.49530770823550085,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1271,
+          1254,
+          1632,
+          1305
+        ],
+        "width": 361,
+        "height": 51,
+        "center": [
+          1451,
+          1279
+        ],
+        "text": "Long lith aspent",
+        "confidence": 0.42584986123774904,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1642,
+          1257,
+          1696,
+          1296
+        ],
+        "width": 54,
+        "height": 39,
+        "center": [
+          1669,
+          1276
+        ],
+        "text": "Of",
+        "confidence": 0.08637367494118296,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1708,
+          1254,
+          1815,
+          1296
+        ],
+        "width": 107,
+        "height": 42,
+        "center": [
+          1761,
+          1275
+        ],
+        "text": "alial",
+        "confidence": 0.5171701607319401,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1212,
+          1305,
+          1263,
+          1350
+        ],
+        "width": 51,
+        "height": 45,
+        "center": [
+          1237,
+          1327
+        ],
+        "text": "1f",
+        "confidence": 0.3726696800025064,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1277,
+          1304,
+          1613,
+          1353
+        ],
+        "width": 336,
+        "height": 49,
+        "center": [
+          1445,
+          1328
+        ],
+        "text": "Lconst. seleClId",
+        "confidence": 0.2731485365308001,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1622,
+          1315,
+          1671,
+          1343
+        ],
+        "width": 49,
+        "height": 28,
+        "center": [
+          1646,
+          1329
+        ],
+        "text": "二二",
+        "confidence": 0.36986540118062683,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1691,
+          1312,
+          1716,
+          1349
+        ],
+        "width": 25,
+        "height": 37,
+        "center": [
+          1703,
+          1330
+        ],
+        "text": "[",
+        "confidence": 0.13785807754822432,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1320,
+          1358,
+          1436,
+          1403
+        ],
+        "width": 116,
+        "height": 45,
+        "center": [
+          1378,
+          1380
+        ],
+        "text": "shart",
+        "confidence": 0.4551736887930242,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1447,
+          1354,
+          1933,
+          1404
+        ],
+        "width": 486,
+        "height": 50,
+        "center": [
+          1690,
+          1379
+        ],
+        "text": "code Intructenleadiaey",
+        "confidence": 0.37915485454851044,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1253,
+          1408,
+          1392,
+          1452
+        ],
+        "width": 139,
+        "height": 44,
+        "center": [
+          1322,
+          1430
+        ],
+        "text": "Fetupn",
+        "confidence": 0.2813381747423145,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1402,
+          1405,
+          2255,
+          1458
+        ],
+        "width": 853,
+        "height": 53,
+        "center": [
+          1828,
+          1431
+        ],
+        "text": "out.logieat IISst (\"Hnouts tolero =\"j;",
+        "confidence": 0.15663712140382052,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2968,
+          1370,
+          3518,
+          1445
+        ],
+        "width": 550,
+        "height": 75,
+        "center": [
+          3243,
+          1407
+        ],
+        "text": "U亮主题: GitHub Light",
+        "confidence": 0.21441395818587528,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3550,
+          1378,
+          3671,
+          1434
+        ],
+        "width": 121,
+        "height": 56,
+        "center": [
+          3610,
+          1406
+        ],
+        "text": "Nord",
+        "confidence": 0.19584442675113678,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1208,
+          1456,
+          1282,
+          1509
+        ],
+        "width": 74,
+        "height": 53,
+        "center": [
+          1245,
+          1482
+        ],
+        "text": "};",
+        "confidence": 0.9892425217007763,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1167,
+          1609,
+          1218,
+          1654
+        ],
+        "width": 51,
+        "height": 45,
+        "center": [
+          1192,
+          1631
+        ],
+        "text": "1",
+        "confidence": 0.7434429419424902,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1233,
+          1609,
+          1412,
+          1651
+        ],
+        "width": 179,
+        "height": 42,
+        "center": [
+          1322,
+          1630
+        ],
+        "text": "Fowlards",
+        "confidence": 0.2583765237265914,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1425,
+          1608,
+          1694,
+          1657
+        ],
+        "width": 269,
+        "height": 49,
+        "center": [
+          1559,
+          1632
+        ],
+        "text": "Sntal Lheme",
+        "confidence": 0.18406003659384382,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1162,
+          1658,
+          1304,
+          1709
+        ],
+        "width": 142,
+        "height": 51,
+        "center": [
+          1233,
+          1683
+        ],
+        "text": "Bxpnrt",
+        "confidence": 0.0855316016838286,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1316,
+          1659,
+          1700,
+          1712
+        ],
+        "width": 384,
+        "height": 53,
+        "center": [
+          1508,
+          1685
+        ],
+        "text": "function hoannity",
+        "confidence": 0.893680576367082,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1728,
+          1656,
+          2151,
+          1710
+        ],
+        "width": 423,
+        "height": 54,
+        "center": [
+          1939,
+          1683
+        ],
+        "text": "function apnoi() {",
+        "confidence": 0.2619060056583687,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1208,
+          1710,
+          1700,
+          1760
+        ],
+        "width": 492,
+        "height": 50,
+        "center": [
+          1454,
+          1735
+        ],
+        "text": "Peturn pesult.geteelty",
+        "confidence": 0.420596220305639,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          105,
+          1978,
+          569,
+          2041
+        ],
+        "width": 464,
+        "height": 63,
+        "center": [
+          337,
+          2009
+        ],
+        "text": "Glassmorphism Lab",
+        "confidence": 0.9551333075215496,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "NoteboolLhl",
+        "confidence": 0.04684177099441045,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1814,
+          1099,
+          1934,
+          1161
+        ],
+        "width": 120,
+        "height": 62,
+        "center": [
+          1874,
+          1130
+        ],
+        "text": "args]",
+        "confidence": 0.4937475951213938,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          832,
+          589,
+          2958,
+          1818
+        ],
+        "width": 2126,
+        "height": 1229,
+        "center": [
+          1895,
+          1203
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_07": {
+    "source": "page_07.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          204,
+          189,
+          924,
+          363
+        ],
+        "width": 720,
+        "height": 174,
+        "center": [
+          564,
+          276
+        ],
+        "text": "组件规范B:",
+        "confidence": 0.9301724506234823,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          971,
+          189,
+          1656,
+          366
+        ],
+        "width": 685,
+        "height": 177,
+        "center": [
+          1313,
+          277
+        ],
+        "text": "数据可视化",
+        "confidence": 0.9684525021235462,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          215,
+          385,
+          253,
+          439
+        ],
+        "width": 38,
+        "height": 54,
+        "center": [
+          234,
+          412
+        ],
+        "text": "A",
+        "confidence": 0.34406243574471773,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          260,
+          367,
+          1779,
+          464
+        ],
+        "width": 1519,
+        "height": 97,
+        "center": [
+          1019,
+          415
+        ],
+        "text": "high-fidelity code editor mockup With Al integration。",
+        "confidence": 0.6751965271989886,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1735,
+          501,
+          2535,
+          573
+        ],
+        "width": 800,
+        "height": 72,
+        "center": [
+          2135,
+          537
+        ],
+        "text": "禁止圄角 (No Rounded Corners)",
+        "confidence": 0.6308893071330733,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2580,
+          501,
+          2852,
+          576
+        ],
+        "width": 272,
+        "height": 75,
+        "center": [
+          2716,
+          538
+        ],
+        "text": "体现严蓬性",
+        "confidence": 0.2374788918638633,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3091,
+          519,
+          3610,
+          591
+        ],
+        "width": 519,
+        "height": 72,
+        "center": [
+          3350,
+          555
+        ],
+        "text": "罾8抿阵: GxG c力圄",
+        "confidence": 0.0008909584932204859,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1739,
+          574,
+          2365,
+          643
+        ],
+        "width": 626,
+        "height": 69,
+        "center": [
+          2052,
+          608
+        ],
+        "text": "InterlNoto Sans SC Regular",
+        "confidence": 0.7056586844535977,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2990,
+          594,
+          3619,
+          661
+        ],
+        "width": 629,
+        "height": 67,
+        "center": [
+          3304,
+          627
+        ],
+        "text": "InterlNoto Sans SC Regular",
+        "confidence": 0.7930449281256824,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2921,
+          773,
+          3353,
+          834
+        ],
+        "width": 432,
+        "height": 61,
+        "center": [
+          3137,
+          803
+        ],
+        "text": "Smart Data Matrix",
+        "confidence": 0.7793524227170253,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          283,
+          898,
+          350,
+          1079
+        ],
+        "width": 67,
+        "height": 181,
+        "center": [
+          316,
+          988
+        ],
+        "text": "簋",
+        "confidence": 0.002960801947378633,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          282,
+          1077,
+          338,
+          1150
+        ],
+        "width": 56,
+        "height": 73,
+        "center": [
+          310,
+          1113
+        ],
+        "text": "8",
+        "confidence": 0.027217611838015188,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          285,
+          1151,
+          338,
+          1267
+        ],
+        "width": 53,
+        "height": 116,
+        "center": [
+          311,
+          1209
+        ],
+        "text": "l",
+        "confidence": 0.0027294063567674526,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1579,
+          1346,
+          2044,
+          1422
+        ],
+        "width": 465,
+        "height": 76,
+        "center": [
+          1811,
+          1384
+        ],
+        "text": "线条:  筑利 (Sharp)",
+        "confidence": 0.3169179125454396,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2099,
+          1346,
+          2314,
+          1421
+        ],
+        "width": 215,
+        "height": 75,
+        "center": [
+          2206,
+          1383
+        ],
+        "text": "2px 实`",
+        "confidence": 0.049288719279629946,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1577,
+          1422,
+          2206,
+          1486
+        ],
+        "width": 629,
+        "height": 64,
+        "center": [
+          1891,
+          1454
+        ],
+        "text": "InterlNoto Sans SC Regular",
+        "confidence": 0.7047226148248983,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1135,
+          1706,
+          1734,
+          1772
+        ],
+        "width": 599,
+        "height": 66,
+        "center": [
+          1434,
+          1739
+        ],
+        "text": "Interl Noto Sans SC Regular",
+        "confidence": 0.64803760593648,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          836,
+          1914,
+          1215,
+          1989
+        ],
+        "width": 379,
+        "height": 75,
+        "center": [
+          1025,
+          1951
+        ],
+        "text": "吝器圄角: IGpX",
+        "confidence": 0.018800324177309022,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1873,
+          1915,
+          2406,
+          1982
+        ],
+        "width": 533,
+        "height": 67,
+        "center": [
+          2139,
+          1948
+        ],
+        "text": "网招线:  极淡 #FIFSFg",
+        "confidence": 0.07459927039187156,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "MoteboolLhl",
+        "confidence": 0.04236061270628194,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1237,
+          1907,
+          1388,
+          1997
+        ],
+        "width": 151,
+        "height": 90,
+        "center": [
+          1312,
+          1952
+        ],
+        "text": "24pX",
+        "confidence": 0.4579464793205261,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2893,
+          553,
+          3080,
+          859
+        ],
+        "width": 187,
+        "height": 306,
+        "center": [
+          2986,
+          706
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          423,
+          536,
+          2479,
+          1608
+        ],
+        "width": 2056,
+        "height": 1072,
+        "center": [
+          1451,
+          1072
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_08": {
+    "source": "page_08.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          202,
+          185,
+          816,
+          367
+        ],
+        "width": 614,
+        "height": 182,
+        "center": [
+          509,
+          276
+        ],
+        "text": "智能交互:",
+        "confidence": 0.9504896630987386,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          870,
+          186,
+          1838,
+          360
+        ],
+        "width": 968,
+        "height": 174,
+        "center": [
+          1354,
+          273
+        ],
+        "text": "AI 代理与微反馈",
+        "confidence": 0.6313355546189146,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          203,
+          375,
+          1264,
+          450
+        ],
+        "width": 1061,
+        "height": 75,
+        "center": [
+          733,
+          412
+        ],
+        "text": "In Noto Sans SC Bold and Inter Bold",
+        "confidence": 0.7308537551165691,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          202,
+          1082,
+          712,
+          1182
+        ],
+        "width": 510,
+        "height": 100,
+        "center": [
+          457,
+          1132
+        ],
+        "text": "数据金 #FS9EOB",
+        "confidence": 0.6489344564593007,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1500,
+          1089,
+          2151,
+          1217
+        ],
+        "width": 651,
+        "height": 128,
+        "center": [
+          1825,
+          1153
+        ],
+        "text": "Agent Thinking..",
+        "confidence": 0.7471754216270308,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          242,
+          1174,
+          635,
+          1271
+        ],
+        "width": 393,
+        "height": 97,
+        "center": [
+          438,
+          1222
+        ],
+        "text": "(呼吸灯效果)",
+        "confidence": 0.9496499420228159,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2911,
+          1617,
+          3671,
+          1709
+        ],
+        "width": 760,
+        "height": 92,
+        "center": [
+          3291,
+          1663
+        ],
+        "text": "轻30等距图标 +磨砂质感",
+        "confidence": 0.48050161702272326,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          105,
+          1978,
+          569,
+          2041
+        ],
+        "width": 464,
+        "height": 63,
+        "center": [
+          337,
+          2009
+        ],
+        "text": "Glassmorphism Lab",
+        "confidence": 0.6418153067233178,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "NoteboohLhl",
+        "confidence": 0.06588480261565181,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          730,
+          1128,
+          1371,
+          1281
+        ],
+        "width": 641,
+        "height": 153,
+        "center": [
+          1050,
+          1204
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2511,
+          1117,
+          2887,
+          1672
+        ],
+        "width": 376,
+        "height": 555,
+        "center": [
+          2699,
+          1394
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2845,
+          1047,
+          3205,
+          1387
+        ],
+        "width": 360,
+        "height": 340,
+        "center": [
+          3025,
+          1217
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2489,
+          713,
+          2726,
+          977
+        ],
+        "width": 237,
+        "height": 264,
+        "center": [
+          2607,
+          845
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2549,
+          586,
+          2772,
+          728
+        ],
+        "width": 223,
+        "height": 142,
+        "center": [
+          2660,
+          657
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2256,
+          500,
+          2517,
+          704
+        ],
+        "width": 261,
+        "height": 204,
+        "center": [
+          2386,
+          602
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_09": {
+    "source": "page_09.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          224,
+          198,
+          960,
+          372
+        ],
+        "width": 736,
+        "height": 174,
+        "center": [
+          592,
+          285
+        ],
+        "text": "动态与节奏:",
+        "confidence": 0.849340233727438,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1004,
+          198,
+          1806,
+          369
+        ],
+        "width": 802,
+        "height": 171,
+        "center": [
+          1405,
+          283
+        ],
+        "text": "赋予界面生命",
+        "confidence": 0.9618364321682291,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          225,
+          389,
+          1014,
+          478
+        ],
+        "width": 789,
+        "height": 89,
+        "center": [
+          619,
+          433
+        ],
+        "text": "Interl Noto Sans SC Regular",
+        "confidence": 0.5298148049024813,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2219,
+          495,
+          2541,
+          603
+        ],
+        "width": 322,
+        "height": 108,
+        "center": [
+          2380,
+          549
+        ],
+        "text": "数据动效",
+        "confidence": 0.8826607465744019,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          492,
+          668,
+          755,
+          776
+        ],
+        "width": 263,
+        "height": 108,
+        "center": [
+          623,
+          722
+        ],
+        "text": "UI 动效",
+        "confidence": 0.9529239428494427,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2601,
+          1092,
+          3307,
+          1183
+        ],
+        "width": 706,
+        "height": 91,
+        "center": [
+          2954,
+          1137
+        ],
+        "text": "Ease-out-expo (指数缓动)",
+        "confidence": 0.3034539553555085,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          880,
+          1274,
+          1581,
+          1359
+        ],
+        "width": 701,
+        "height": 85,
+        "center": [
+          1230,
+          1316
+        ],
+        "text": "Ease-out-back (弹性回弹)",
+        "confidence": 0.5297430496395164,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2668,
+          1311,
+          3317,
+          1408
+        ],
+        "width": 649,
+        "height": 97,
+        "center": [
+          2992,
+          1359
+        ],
+        "text": "图表。数字 -禁止回弹",
+        "confidence": 0.5368562361763833,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          497,
+          1581,
+          828,
+          1673
+        ],
+        "width": 331,
+        "height": 92,
+        "center": [
+          662,
+          1627
+        ],
+        "text": "弹窗。卡片",
+        "confidence": 0.12215439125540496,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1467,
+          1873,
+          2068,
+          1974
+        ],
+        "width": 601,
+        "height": 101,
+        "center": [
+          1767,
+          1923
+        ],
+        "text": "错帧 (Stagger): 0.05s",
+        "confidence": 0.9648801549537637,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2109,
+          1882,
+          2230,
+          1949
+        ],
+        "width": 121,
+        "height": 67,
+        "center": [
+          2169,
+          1915
+        ],
+        "text": "0.1s",
+        "confidence": 0.8181198787149742,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "NoteboolLhl",
+        "confidence": 0.0416175044863874,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2221,
+          1873,
+          2397,
+          1966
+        ],
+        "width": 176,
+        "height": 93,
+        "center": [
+          2309,
+          1919
+        ],
+        "text": "delay",
+        "confidence": 0.9989323062889468,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1387,
+          1644,
+          2430,
+          1833
+        ],
+        "width": 1043,
+        "height": 189,
+        "center": [
+          1908,
+          1738
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          876,
+          854,
+          1527,
+          1031
+        ],
+        "width": 651,
+        "height": 177,
+        "center": [
+          1201,
+          942
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          539,
+          854,
+          870,
+          1458
+        ],
+        "width": 331,
+        "height": 604,
+        "center": [
+          704,
+          1156
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2270,
+          675,
+          3110,
+          1190
+        ],
+        "width": 840,
+        "height": 515,
+        "center": [
+          2690,
+          932
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1372,
+          607,
+          1639,
+          986
+        ],
+        "width": 267,
+        "height": 379,
+        "center": [
+          1505,
+          796
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2897,
+          430,
+          3368,
+          1270
+        ],
+        "width": 471,
+        "height": 840,
+        "center": [
+          3132,
+          850
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_10": {
+    "source": "page_10.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          197,
+          185,
+          1140,
+          373
+        ],
+        "width": 943,
+        "height": 188,
+        "center": [
+          668,
+          279
+        ],
+        "text": "场景适配指南",
+        "confidence": 0.9248410667419529,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          391,
+          579,
+          1075,
+          689
+        ],
+        "width": 684,
+        "height": 110,
+        "center": [
+          733,
+          634
+        ],
+        "text": "视频1站 (Video)",
+        "confidence": 0.23738875679132432,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1585,
+          603,
+          1926,
+          713
+        ],
+        "width": 341,
+        "height": 110,
+        "center": [
+          1755,
+          658
+        ],
+        "text": "演示文稿",
+        "confidence": 0.7649452686309814,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1951,
+          607,
+          2194,
+          706
+        ],
+        "width": 243,
+        "height": 99,
+        "center": [
+          2072,
+          656
+        ],
+        "text": "(PPT)",
+        "confidence": 0.9907641365916492,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2820,
+          610,
+          2988,
+          709
+        ],
+        "width": 168,
+        "height": 99,
+        "center": [
+          2904,
+          659
+        ],
+        "text": "刚页",
+        "confidence": 0.006207173722592911,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3023,
+          607,
+          3278,
+          706
+        ],
+        "width": 255,
+        "height": 99,
+        "center": [
+          3150,
+          656
+        ],
+        "text": "(Web)",
+        "confidence": 0.998357457452375,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          448,
+          683,
+          1069,
+          755
+        ],
+        "width": 621,
+        "height": 72,
+        "center": [
+          758,
+          719
+        ],
+        "text": "Inter, Noto Sans SC Regular",
+        "confidence": 0.7053207034733424,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1793,
+          1129,
+          1937,
+          1160
+        ],
+        "width": 144,
+        "height": 31,
+        "center": [
+          1865,
+          1144
+        ],
+        "text": "0旧 HnbeT",
+        "confidence": 0.023951444956942625,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          393,
+          1173,
+          1117,
+          1362
+        ],
+        "width": 724,
+        "height": 189,
+        "center": [
+          755,
+          1267
+        ],
+        "text": "大字号标题",
+        "confidence": 0.7008103012037706,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1725,
+          1423,
+          2100,
+          1509
+        ],
+        "width": 375,
+        "height": 86,
+        "center": [
+          1912,
+          1466
+        ],
+        "text": "重点内容展示",
+        "confidence": 0.6940672601888209,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          948,
+          1614,
+          1219,
+          1670
+        ],
+        "width": 271,
+        "height": 56,
+        "center": [
+          1083,
+          1642
+        ],
+        "text": "Data Amber",
+        "confidence": 0.981894265808037,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          945,
+          1677,
+          1150,
+          1733
+        ],
+        "width": 205,
+        "height": 56,
+        "center": [
+          1047,
+          1705
+        ],
+        "text": "#FSgEDB",
+        "confidence": 0.7139688197903209,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          479,
+          1805,
+          1040,
+          1891
+        ],
+        "width": 561,
+        "height": 86,
+        "center": [
+          759,
+          1848
+        ],
+        "text": "字号加倍 +文宇蒙版",
+        "confidence": 0.4672330543495063,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1632,
+          1802,
+          2190,
+          1891
+        ],
+        "width": 558,
+        "height": 89,
+        "center": [
+          1911,
+          1846
+        ],
+        "text": "减少动效 +纯白背景",
+        "confidence": 0.4326946813171977,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2742,
+          1802,
+          3384,
+          1893
+        ],
+        "width": 642,
+        "height": 91,
+        "center": [
+          3063,
+          1847
+        ],
+        "text": "增强交互 +30 Tilt 效果",
+        "confidence": 0.5077082581353392,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "MoteboohLhl",
+        "confidence": 0.05892008999758127,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2989,
+          1396,
+          3093,
+          1446
+        ],
+        "width": 104,
+        "height": 50,
+        "center": [
+          3041,
+          1421
+        ],
+        "text": "煦]",
+        "confidence": 3.371208069667125e-05,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2851,
+          1367,
+          3204,
+          1487
+        ],
+        "width": 353,
+        "height": 120,
+        "center": [
+          3027,
+          1427
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2609,
+          1283,
+          3005,
+          1583
+        ],
+        "width": 396,
+        "height": 300,
+        "center": [
+          2807,
+          1433
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1583,
+          1118,
+          2241,
+          1337
+        ],
+        "width": 658,
+        "height": 219,
+        "center": [
+          1912,
+          1227
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1436,
+          978,
+          2387,
+          1556
+        ],
+        "width": 951,
+        "height": 578,
+        "center": [
+          1911,
+          1267
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          283,
+          976,
+          1234,
+          1576
+        ],
+        "width": 951,
+        "height": 600,
+        "center": [
+          758,
+          1276
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1756,
+          511,
+          2465,
+          1153
+        ],
+        "width": 709,
+        "height": 642,
+        "center": [
+          2110,
+          832
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_11": {
+    "source": "page_11.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          220,
+          194,
+          1105,
+          379
+        ],
+        "width": 885,
+        "height": 185,
+        "center": [
+          662,
+          286
+        ],
+        "text": "开发者速查卡",
+        "confidence": 0.9747485478317731,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          226,
+          390,
+          1296,
+          471
+        ],
+        "width": 1070,
+        "height": 81,
+        "center": [
+          761,
+          430
+        ],
+        "text": "Glassmorphism Lab V2.0 Cheat Sheet",
+        "confidence": 0.7885273957637463,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          294,
+          682,
+          783,
+          771
+        ],
+        "width": 489,
+        "height": 89,
+        "center": [
+          538,
+          726
+        ],
+        "text": "Color Palette",
+        "confidence": 0.8766402516420602,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2048,
+          674,
+          3025,
+          782
+        ],
+        "width": 977,
+        "height": 108,
+        "center": [
+          2536,
+          728
+        ],
+        "text": "Material Parameters (CSS)",
+        "confidence": 0.7138381166696226,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2096,
+          933,
+          2589,
+          1029
+        ],
+        "width": 493,
+        "height": 96,
+        "center": [
+          2342,
+          981
+        ],
+        "text": "Backdrop-filter:",
+        "confidence": 0.849405915279364,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2608,
+          935,
+          3023,
+          1036
+        ],
+        "width": 415,
+        "height": 101,
+        "center": [
+          2815,
+          985
+        ],
+        "text": "blur(ISpx);",
+        "confidence": 0.3515539884162815,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2098,
+          1074,
+          2829,
+          1165
+        ],
+        "width": 731,
+        "height": 91,
+        "center": [
+          2463,
+          1119
+        ],
+        "text": "Background: rgba (255 ,",
+        "confidence": 0.6515523997000411,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2868,
+          1082,
+          2997,
+          1151
+        ],
+        "width": 129,
+        "height": 69,
+        "center": [
+          2932,
+          1116
+        ],
+        "text": "255",
+        "confidence": 0.8423315286636353,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2994,
+          1127,
+          3011,
+          1150
+        ],
+        "width": 17,
+        "height": 23,
+        "center": [
+          3002,
+          1138
+        ],
+        "text": "0",
+        "confidence": 0.0007934943743111017,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3047,
+          1082,
+          3182,
+          1151
+        ],
+        "width": 135,
+        "height": 69,
+        "center": [
+          3114,
+          1116
+        ],
+        "text": "255",
+        "confidence": 0.9999430179595947,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3225,
+          1073,
+          3426,
+          1161
+        ],
+        "width": 201,
+        "height": 88,
+        "center": [
+          3325,
+          1117
+        ],
+        "text": "0.7);",
+        "confidence": 0.9406457108185214,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          313,
+          1203,
+          519,
+          1278
+        ],
+        "width": 206,
+        "height": 75,
+        "center": [
+          416,
+          1240
+        ],
+        "text": "Purple:",
+        "confidence": 0.9786935117209253,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          655,
+          1201,
+          802,
+          1268
+        ],
+        "width": 147,
+        "height": 67,
+        "center": [
+          728,
+          1234
+        ],
+        "text": "Mint:",
+        "confidence": 0.987271274816659,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          962,
+          1201,
+          1119,
+          1268
+        ],
+        "width": 157,
+        "height": 67,
+        "center": [
+          1040,
+          1234
+        ],
+        "text": "Gold:",
+        "confidence": 0.9793720389715447,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1279,
+          1201,
+          1426,
+          1268
+        ],
+        "width": 147,
+        "height": 67,
+        "center": [
+          1352,
+          1234
+        ],
+        "text": "Blue:",
+        "confidence": 0.97045117148633,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1549,
+          1197,
+          1783,
+          1286
+        ],
+        "width": 234,
+        "height": 89,
+        "center": [
+          1666,
+          1241
+        ],
+        "text": "Orange:",
+        "confidence": 0.9989410724526656,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2099,
+          1212,
+          2338,
+          1287
+        ],
+        "width": 239,
+        "height": 75,
+        "center": [
+          2218,
+          1249
+        ],
+        "text": "Border:",
+        "confidence": 0.9988182930926058,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          281,
+          1276,
+          545,
+          1343
+        ],
+        "width": 264,
+        "height": 67,
+        "center": [
+          413,
+          1309
+        ],
+        "text": "#6C63FF",
+        "confidence": 0.6364880492890015,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          589,
+          1276,
+          862,
+          1343
+        ],
+        "width": 273,
+        "height": 67,
+        "center": [
+          725,
+          1309
+        ],
+        "text": "#2DD4BF",
+        "confidence": 0.6236023222027682,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          908,
+          1276,
+          1169,
+          1343
+        ],
+        "width": 261,
+        "height": 67,
+        "center": [
+          1038,
+          1309
+        ],
+        "text": "#FS9EOB",
+        "confidence": 0.7649934309276167,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1221,
+          1272,
+          1484,
+          1344
+        ],
+        "width": 263,
+        "height": 72,
+        "center": [
+          1352,
+          1308
+        ],
+        "text": "#3B82F6",
+        "confidence": 0.7041828120987165,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1535,
+          1272,
+          1795,
+          1344
+        ],
+        "width": 260,
+        "height": 72,
+        "center": [
+          1665,
+          1308
+        ],
+        "text": "#F97316",
+        "confidence": 0.8922036852019388,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2095,
+          1301,
+          2441,
+          1386
+        ],
+        "width": 346,
+        "height": 85,
+        "center": [
+          2268,
+          1343
+        ],
+        "text": "Ipx solid",
+        "confidence": 0.7826960528403372,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2612,
+          1301,
+          2778,
+          1386
+        ],
+        "width": 166,
+        "height": 85,
+        "center": [
+          2695,
+          1343
+        ],
+        "text": "(255",
+        "confidence": 0.9999800324440002,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2767,
+          1351,
+          2787,
+          1377
+        ],
+        "width": 20,
+        "height": 26,
+        "center": [
+          2777,
+          1364
+        ],
+        "text": "[",
+        "confidence": 0.028241956443603167,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2822,
+          1305,
+          2977,
+          1385
+        ],
+        "width": 155,
+        "height": 80,
+        "center": [
+          2899,
+          1345
+        ],
+        "text": "255,",
+        "confidence": 0.9858695268630981,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3004,
+          1305,
+          3156,
+          1385
+        ],
+        "width": 152,
+        "height": 80,
+        "center": [
+          3080,
+          1345
+        ],
+        "text": "255,",
+        "confidence": 0.9991739392280579,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3183,
+          1305,
+          3378,
+          1385
+        ],
+        "width": 195,
+        "height": 80,
+        "center": [
+          3280,
+          1345
+        ],
+        "text": "0.8);",
+        "confidence": 0.8654662797212642,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2099,
+          1442,
+          2508,
+          1520
+        ],
+        "width": 409,
+        "height": 78,
+        "center": [
+          2303,
+          1481
+        ],
+        "text": "Box-shadow:",
+        "confidence": 0.9561161712025534,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2098,
+          1549,
+          2485,
+          1637
+        ],
+        "width": 387,
+        "height": 88,
+        "center": [
+          2291,
+          1593
+        ],
+        "text": "0 BpX 32pX",
+        "confidence": 0.72487616967703,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2505,
+          1556,
+          2550,
+          1615
+        ],
+        "width": 45,
+        "height": 59,
+        "center": [
+          2527,
+          1585
+        ],
+        "text": "0",
+        "confidence": 0.997387925082549,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2567,
+          1539,
+          2862,
+          1642
+        ],
+        "width": 295,
+        "height": 103,
+        "center": [
+          2714,
+          1590
+        ],
+        "text": "Igba(99,",
+        "confidence": 0.8182650056991702,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2848,
+          1596,
+          2865,
+          1622
+        ],
+        "width": 17,
+        "height": 26,
+        "center": [
+          2856,
+          1609
+        ],
+        "text": "[",
+        "confidence": 0.008223533201601185,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2903,
+          1550,
+          3055,
+          1630
+        ],
+        "width": 152,
+        "height": 80,
+        "center": [
+          2979,
+          1590
+        ],
+        "text": "102,",
+        "confidence": 0.9904258251190186,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3085,
+          1550,
+          3237,
+          1630
+        ],
+        "width": 152,
+        "height": 80,
+        "center": [
+          3161,
+          1590
+        ],
+        "text": "241,",
+        "confidence": 0.8688531805859543,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          292,
+          1619,
+          561,
+          1724
+        ],
+        "width": 269,
+        "height": 105,
+        "center": [
+          426,
+          1671
+        ],
+        "text": "Layout",
+        "confidence": 0.9370759748433474,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2095,
+          1650,
+          2330,
+          1736
+        ],
+        "width": 235,
+        "height": 86,
+        "center": [
+          2212,
+          1693
+        ],
+        "text": "0.08);",
+        "confidence": 0.9805018978075901,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          294,
+          1826,
+          717,
+          1918
+        ],
+        "width": 423,
+        "height": 92,
+        "center": [
+          505,
+          1872
+        ],
+        "text": "Radius: 1GpX",
+        "confidence": 0.46982030361305416,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          717,
+          1855,
+          742,
+          1883
+        ],
+        "width": 25,
+        "height": 28,
+        "center": [
+          729,
+          1869
+        ],
+        "text": "二",
+        "confidence": 0.0006346495320600255,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          745,
+          1829,
+          923,
+          1918
+        ],
+        "width": 178,
+        "height": 89,
+        "center": [
+          834,
+          1873
+        ],
+        "text": "24pX",
+        "confidence": 0.7821432948112488,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          295,
+          1977,
+          436,
+          2051
+        ],
+        "width": 141,
+        "height": 74,
+        "center": [
+          365,
+          2014
+        ],
+        "text": "Grid",
+        "confidence": 0.997312605381012,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "MoteboohLhl",
+        "confidence": 0.03837100411302485,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2459,
+          1294,
+          2622,
+          1393
+        ],
+        "width": 163,
+        "height": 99,
+        "center": [
+          2540,
+          1343
+        ],
+        "text": "Igba",
+        "confidence": 0.657621443271637,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          429,
+          1969,
+          608,
+          2076
+        ],
+        "width": 179,
+        "height": 107,
+        "center": [
+          518,
+          2022
+        ],
+        "text": "Gap:",
+        "confidence": 0.8117196407866413,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          585,
+          1967,
+          776,
+          2077
+        ],
+        "width": 191,
+        "height": 110,
+        "center": [
+          680,
+          2022
+        ],
+        "text": "24Px",
+        "confidence": 0.3931626081466675,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2050,
+          1540,
+          2349,
+          1804
+        ],
+        "width": 299,
+        "height": 264,
+        "center": [
+          2199,
+          1672
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1959,
+          1272,
+          3619,
+          1895
+        ],
+        "width": 1660,
+        "height": 623,
+        "center": [
+          2789,
+          1583
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          208,
+          1075,
+          1289,
+          1451
+        ],
+        "width": 1081,
+        "height": 376,
+        "center": [
+          748,
+          1263
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2975,
+          607,
+          3619,
+          1270
+        ],
+        "width": 644,
+        "height": 663,
+        "center": [
+          3297,
+          938
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1960,
+          607,
+          2145,
+          1095
+        ],
+        "width": 185,
+        "height": 488,
+        "center": [
+          2052,
+          851
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1421,
+          607,
+          1867,
+          1190
+        ],
+        "width": 446,
+        "height": 583,
+        "center": [
+          1644,
+          898
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  },
+  "page_12": {
+    "source": "page_12.png",
+    "elements": [
+      {
+        "type": "text",
+        "bbox": [
+          1312,
+          1303,
+          1629,
+          1366
+        ],
+        "width": 317,
+        "height": 63,
+        "center": [
+          1470,
+          1334
+        ],
+        "text": "DE5 |G N",
+        "confidence": 0.33686224529579417,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1676,
+          1303,
+          2012,
+          1366
+        ],
+        "width": 336,
+        "height": 63,
+        "center": [
+          1844,
+          1334
+        ],
+        "text": "5 丫5TE M",
+        "confidence": 0.24757640250525723,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          2058,
+          1303,
+          2513,
+          1366
+        ],
+        "width": 455,
+        "height": 63,
+        "center": [
+          2285,
+          1334
+        ],
+        "text": "C 0 M PLETE",
+        "confidence": 0.4092130806709717,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1248,
+          1457,
+          2559,
+          1773
+        ],
+        "width": 1311,
+        "height": 316,
+        "center": [
+          1903,
+          1615
+        ],
+        "text": "谢谢观看",
+        "confidence": 0.9806543588638306,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          1643,
+          1976,
+          2182,
+          2041
+        ],
+        "width": 539,
+        "height": 65,
+        "center": [
+          1912,
+          2008
+        ],
+        "text": "Glassmorphism Lab V2.0",
+        "confidence": 0.7540723033703636,
+        "lines": 1
+      },
+      {
+        "type": "text",
+        "bbox": [
+          3578,
+          2069,
+          3799,
+          2111
+        ],
+        "width": 221,
+        "height": 42,
+        "center": [
+          3688,
+          2090
+        ],
+        "text": "MoteboohLhl",
+        "confidence": 0.05647565016543883,
+        "lines": 1
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1947,
+          1499,
+          2201,
+          1734
+        ],
+        "width": 254,
+        "height": 235,
+        "center": [
+          2074,
+          1616
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          2282,
+          1487,
+          2541,
+          1744
+        ],
+        "width": 259,
+        "height": 257,
+        "center": [
+          2411,
+          1615
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1615,
+          1486,
+          1876,
+          1743
+        ],
+        "width": 261,
+        "height": 257,
+        "center": [
+          1745,
+          1614
+        ]
+      },
+      {
+        "type": "image",
+        "bbox": [
+          1281,
+          1486,
+          1541,
+          1743
+        ],
+        "width": 260,
+        "height": 257,
+        "center": [
+          1411,
+          1614
+        ]
+      },
+      {
+        "type": "shape",
+        "bbox": [
+          0,
+          0,
+          3823,
+          2134
+        ],
+        "width": 3823,
+        "height": 2134,
+        "center": [
+          1911,
+          1067
+        ],
+        "shape_type": "rectangle"
+      }
+    ]
+  }
+}

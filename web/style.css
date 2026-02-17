@@ -10,8 +10,9 @@
     --text-secondary: rgba(255, 255, 255, 0.7);
     --accent-color: #00d4ff;
     --accent-secondary: #7c3aed;
-    --page-width: 1376px;
-    --page-height: 768px;
+    /* 实际 PDF 尺寸 */
+    --page-width: 3823px;
+    --page-height: 2134px;
 }
 
 /* 重置 */
