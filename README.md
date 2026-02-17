@@ -376,3 +376,10 @@ Cognimotion 支持通过配置文件定义动画规则。以下是默认规则�
 *Built with ❤️ by ＠阿鹤Ｑｕａｎｔ*
 
 </div>
+
+---
+
+## 2026-02-17 Update
+
+- Updated `web/animation.js` to load element metadata from `web/elements.json` (same directory as `index.html`).
+- This removes cross-directory dependency on `../pdf/elements.json` and makes local preview/deployment simpler.

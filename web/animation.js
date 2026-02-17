@@ -125,7 +125,7 @@ async function init() {
  */
 async function loadElementsData() {
     try {
-        const response = await fetch('../pdf/elements.json');
+        const response = await fetch('elements.json');
         elementsData = await response.json();
         console.log('Elements data loaded:', Object.keys(elementsData).length, 'pages');
     } catch (error) {
