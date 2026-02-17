@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glassmorphism Lab Build Guide - 动画演示</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- 引入 anime.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.2/anime.min.js"></script>
+</head>
+<body>
+    <div class="presentation-container">
+        <!-- 背景装饰 -->
+        <div class="background-decorations">
+            <div class="gradient-orb orb-1"></div>
+            <div class="gradient-orb orb-2"></div>
+            <div class="gradient-orb orb-3"></div>
+        </div>
+
+        <!-- 幻灯片容器 -->
+        <div class="slides-container" id="slidesContainer">
+            <!-- 页面将通过 JS 动态加载 -->
+        </div>
+
+        <!-- 控制栏 -->
+        <div class="controls">
+            <button id="prevBtn" class="control-btn" title="上一页">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M15 18l-6-6 6-6"/>
+                </svg>
+            </button>
+            
+            <div class="progress-indicator">
+                <span id="currentPage">1</span> / <span id="totalPages">12</span>
+            </div>
+
+            <button id="nextBtn" class="control-btn" title="下一页">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M9 18l6-6-6-6"/>
+                </svg>
+            </button>
+
+            <div class="mode-toggle">
+                <button id="autoPlayBtn" class="mode-btn active" title="自动播放">
+                    <svg viewBox="0 0 24 24" fill="currentColor">
+                        <polygon points="5,3 19,12 5,21"/>
+                    </svg>
+                </button>
+                <button id="clickModeBtn" class="mode-btn" title="点击模式">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="10"/>
+                        <path d="M12 8v8M8 12h8"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- 进度条 -->
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+
+        <!-- 提示信息 -->
+        <div class="hint" id="hint">
+            按 <kbd>空格</kbd> 或 <kbd>点击</kbd> 继续 · <kbd>←</kbd> <kbd>→</kbd> 切换页面
+        </div>
+    </div>
+
+    <script src="animation.js"></script>
+</body>
+</html>

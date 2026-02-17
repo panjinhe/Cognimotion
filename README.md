@@ -49,7 +49,7 @@ Video Exporter (MP4/GIF/WEBM)
 
 | 类别 | 技术 |
 |------|------|
-| **核心语言** | Python 3.8+ |
+| **核心语言** | Python 3.13+ |
 | **图形动画** | SVG (svgwrite), Canvas (HTML5) |
 | **文字识别** | Tesseract OCR |
 | **语义分析** | NLTK / spaCy / OpenAI GPT |
