@@ -49,13 +49,15 @@ Video Exporter (MP4/GIF/WEBM)
 
 | 类别 | 技术 |
 |------|------|
-| **核心语言** | Python 3.13+ |
+| **核心语言** | Python 3.12+ |
+| **PDF处理** | PyMuPDF (fitz) |
 | **图形动画** | SVG (svgwrite), Canvas (HTML5) |
 | **文字识别** | Tesseract OCR |
 | **语义分析** | NLTK / spaCy / OpenAI GPT |
-| **视频处理** | FFmpeg, MoviePy |
-| **浏览器渲染** | Puppeteer / Playwright |
-| **动画库** | anime.js / Fabric.js / Konva.js |
+| **视频处理** | FFmpeg, MoviePy, imageio |
+| **浏览器渲染** | Playwright |
+| **前端动画** | anime.js, CSS3 |
+| **环境管理** | uv |
 
 ---
 
@@ -126,26 +128,78 @@ engine.generate("output/presentation.mp4")
 
 ---
 
+## 🎬 Glassmorphism 动画演示
+
+本项目包含一个完整的 **Glassmorphism PDF 动画演示** 功能，可以将 PDF 幻灯片转换为带有精美动画效果的网页和视频。
+
+### 功能特性
+
+- **毛玻璃风格** - 使用 Glassmorphism 设计语言
+- **多种动画效果** - 淡入、缩放、滑入、旋转等
+- **双模式交互** - 支持自动播放和点击触发
+- **视频导出** - 可导出为 MP4 格式
+
+### 快速开始
+
+```bash
+# 使用 uv 管理环境
+uv sync
+
+# 启动本地服务器预览
+# 直接在浏览器中打开 web/index.html
+```
+
+### 转换 PDF 为图片
+
+```bash
+python pdf/pdf_to_images.py
+```
+
+### 录制视频
+
+```bash
+python record_video.py
+```
+
+### 动画网页文件
+
+```
+web/
+├── index.html      # 主页面
+├── style.css       # Glassmorphism 样式
+└── animation.js   # 动画逻辑
+```
+
+### 输出文件
+
+```
+output/
+└── presentation.mp4   # 导出的演示视频
+```
+
+---
+
 ## 📂 项目结构
 
 ```
 Cognimotion/
-├── cognimotion/           # 核心包
+├── cognimotion/           # 核心包 (规划中)
 │   ├── __init__.py
 │   ├── extractor.py       # 内容提取 (OCR)
 │   ├── parser.py          # 语义分析 (NLP)
 │   ├── animator.py        # 动画生成器
 │   ├── renderer.py        # 渲染引擎
 │   └── exporter.py        # 视频导出
-├── examples/              # 示例代码
-│   ├── basic_demo.py
-│   ├── custom_rules.py
-│   └── data_chart.py
-├── rules/                 # 动画规则配置
-│   └── default_rules.json
-├── tests/                 # 单元测试
-├── requirements.txt       # Python 依赖
-├── setup.py               # 安装配置
+├── pdf/                   # PDF 处理
+│   ├── pdf_to_images.py   # PDF 转图片脚本
+│   └── images/            # 转换后的图片
+├── web/                   # 动画网页
+│   ├── index.html
+│   ├── style.css
+│   └── animation.js
+├── output/                # 输出视频
+├── tests/                 # 测试文件
+├── pyproject.toml         # uv 配置
 └── README.md
 ```
 
